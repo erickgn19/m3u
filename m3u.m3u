@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="1000" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png", America TV | PE
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png", ATV | PE
 https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1492" tvg-name="ATV Sur" tvg-logo="https://cdn.m3u.cl/logo/1492_ATV_Sur.png", ATV Sur | PE
